@@ -7,9 +7,15 @@ let counter = 1
 function functioner() {
  count += counter;
 megaEl.textContent = count;
+
+    moolah.play();
+moolah.currentTime = 0
 }
 functioner()
 
 function  evo() {
     counter += 1
+
+    nut.play();
+nut.currentTime = 0
 }
